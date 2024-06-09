@@ -1,0 +1,19 @@
+---
+# interpretable model configuration
+users_hyperparameter_tuning:
+  - USER_3
+  - USER_4
+  - USER_6
+  - USER_9
+  - USER_13
+
+steps_hyperparameter_tuning:
+  - step-5-endback-2-C1C2C1C3C.90-15-15-15-10
+  - step-7-endback-4-C1C2C1C3C.90-15-15-15-10
+  - step-9-endback-4-C1C2C1C3C.90-15-15-15-10
+
+data_path_hyperparameter_tuning: data/processed/ipcai_2024/protocol_1
+
+
+
+
